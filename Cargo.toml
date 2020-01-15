@@ -1,0 +1,9 @@
+[package]
+name = "battery-trigger"
+version = "0.1.0"
+authors = ["Jordi Olivares Provencio <jordi@jolivar.es>"]
+edition = "2018"
+
+[dependencies]
+battery = "0.7.5"
+clap = "2.33.0"
